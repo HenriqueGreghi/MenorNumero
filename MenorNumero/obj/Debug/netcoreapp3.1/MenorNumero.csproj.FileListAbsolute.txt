@@ -1,0 +1,14 @@
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\bin\Debug\netcoreapp3.1\MenorNumero.exe
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\bin\Debug\netcoreapp3.1\MenorNumero.deps.json
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\bin\Debug\netcoreapp3.1\MenorNumero.runtimeconfig.json
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\bin\Debug\netcoreapp3.1\MenorNumero.runtimeconfig.dev.json
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\bin\Debug\netcoreapp3.1\MenorNumero.dll
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\bin\Debug\netcoreapp3.1\MenorNumero.pdb
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\obj\Debug\netcoreapp3.1\MenorNumero.csproj.AssemblyReference.cache
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\obj\Debug\netcoreapp3.1\MenorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\obj\Debug\netcoreapp3.1\MenorNumero.AssemblyInfoInputs.cache
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\obj\Debug\netcoreapp3.1\MenorNumero.AssemblyInfo.cs
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\obj\Debug\netcoreapp3.1\MenorNumero.csproj.CoreCompileInputs.cache
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\obj\Debug\netcoreapp3.1\MenorNumero.dll
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\obj\Debug\netcoreapp3.1\MenorNumero.pdb
+C:\Users\017557631\source\repos\MenorNumero\MenorNumero\obj\Debug\netcoreapp3.1\MenorNumero.genruntimeconfig.cache
